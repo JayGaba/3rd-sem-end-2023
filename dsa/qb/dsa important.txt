@@ -1,0 +1,53 @@
+Important questions for Unit3,4,5:
+Unit3- stack, queue -prepare code also
+Unit4- AVL trees, BST, traversal, hashing 
+Unit5- Minimum spanning tree, Dijkstra’s algorithm, BFS, DFS
+Need explanation with pictorial representation for all questions.
+Unit 5
+Graph Traversal - DFS or BFS
+MST- Prim or Kruskal
+Shortest Path -Dijkstra
+
+Unit 4
+Tree traversal
+BST 
+AVL 
+Hashing 
+
+Unit 3
+Stack all operations
+Stack all application
+Queue all operations 
+
+Don't miss these topics[03-09-2023 22:31] +91 90393 56099: Read these topic - Don't miss these
+
+Unit 1
+Structures, Pointers and structures - with example program 
+Dynamic memory allocation - all four functions
+Matrix multiplication program
+Time & space complexity Calculations 
+
+Unit 2
+Implementation of List ADT using Array 
+Implementation of List ADT using Linked List
+Singly Linked List - pseudo code all opeartions
+Doubly Linked List - pseudo code all opeartions
+[03-09-2023 22:31] +91 90393 56099: 5 marks
+Singly List Implementation (insertion, deletion)
+Structures 
+Doubly Linked List
+Asymtotic Notation
+Linked List operations
+Self referential Structures
+Dynamic Allocattion For arrays
+
+10 marks
+Program using Dynamic Memory Allocation
+Doubly Linked list implementation(insert, delete, display)
+[03-09-2023 22:31] +91 90393 56099: Important Topics
+1. Structures
+2. Linked List(All types)
+3. Dynamic Memory Allocation
+4. Josephus Problem
+
+Concentrate more on these topics. Study scenario based questions given in qbank. If you are very much confident in structure and linked list you can score good marks
